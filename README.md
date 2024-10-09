@@ -43,13 +43,16 @@ To set up the project locally, follow these steps:
    cd insurance-premium-prediction
    
 2. **Create a virtual environment (optional but recommended)**:
+    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    
-4. **Install the required packages**:
+3. **Install the required packages**:
+    ```bash
    pip install -r requirements.txt
    
-6. **Run the Streamlit app**:
+4. **Run the Streamlit app**:
+   ```bash
    streamlit run main.py
 
 ## Usage
