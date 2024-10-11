@@ -11,9 +11,6 @@ Welcome to the Insurance Premium Prediction project! This web application levera
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Model Details](#model-details)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
